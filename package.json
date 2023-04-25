@@ -11,7 +11,10 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@elisabethasbaek/disgusting-food-generator": "^1.0.0",
         "@types/node": "^18.0.6",
+        "funny-commit": "^1.1.0",
+        "funny-quotes": "^0.1.0",
         "lucky": "^1.1.0",
         "node-fetch": "^3.2.6",
         "one-liner-joke": "^1.2.2",
