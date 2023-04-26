@@ -13,11 +13,19 @@
     "dependencies": {
         "@elisabethasbaek/disgusting-food-generator": "^1.0.0",
         "@types/node": "^18.0.6",
+        "chalk": "^5.2.0",
+        "cli-spinners": "^2.8.0",
+        "cowsay": "^1.5.0",
         "funny-commit": "^1.1.0",
         "funny-quotes": "^0.1.0",
+        "funny-random-phrases": "^1.3.0",
+        "log-symbols": "^5.1.0",
         "lucky": "^1.1.0",
         "node-fetch": "^3.2.6",
         "one-liner-joke": "^1.2.2",
-        "supervillains": "^3.1.0"
+        "ora": "^6.3.0",
+        "supervillains": "^3.1.0",
+        "supports-color": "^9.3.1",
+        "uniqolor": "^1.1.0"
     }
 }
